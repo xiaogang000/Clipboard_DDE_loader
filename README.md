@@ -13,3 +13,6 @@
 echo fc4883e4f0e8c00000004... | clip
 start Clipboard_DDE.exe\
 ```
+
+原理：
+https://mp.weixin.qq.com/s/0AQzguAU8mS2ktbs-kUF3w
