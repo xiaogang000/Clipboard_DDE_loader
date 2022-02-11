@@ -1,6 +1,6 @@
 # Clipboard_DDE_loader
 
-生成的剪贴板+DDE组合的加载器，直接用
+生成的剪贴板+DDE组合的加载器，只能用于webshell上线cs、msf或执行某些shellcode，不能用于钓鱼上线。
 
 原理看之前文章吧，64位效果比32位好
 
